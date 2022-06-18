@@ -1,5 +1,4 @@
-<p align="left"> <a href="mailto:abdulahadmailacc@gmail.com"><img src="[https://github-profile-trophy.vercel.app/?username=abdulahad-gh](https://drive.google.com/file/d/1coiuUym3JvFwAZ02iCfVXp9w3Cw8GRMj/view?usp=sharing)" alt="abdulahad-gh" /></a> </p>
-
+(https://media-exp2.licdn.com/dms/image/C4D16AQF1y2PbvZO8KQ/profile-displaybackgroundimage-shrink_200_800/0/1654690119379?e=1660780800&v=beta&t=EW6lfdeNNGGXib03wP-pgrsHIMQYwVc6lE2CntM6fF4)
 <h1 align="center">Hi 👋, I'm Abdul Ahad</h1>
 <h3 align="center">full stack web developer</h3>
 
