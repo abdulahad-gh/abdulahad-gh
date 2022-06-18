@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Ahad</h1>
 <h3 align="center">full stack web developer</h3>
 <div style="display:flex">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulahad-gh&show_icons=true&locale=en" alt="abdulahad-gh" /></p>
+<p style="display:inline-block">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulahad-gh&show_icons=true&locale=en" alt="abdulahad-gh" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulahad-gh&show_icons=true&locale=en&layout=compact" alt="abdulahad-gh" /></p>
 </div>
 - 💬 Ask me about **web development**
