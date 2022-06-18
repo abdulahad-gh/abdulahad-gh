@@ -1,8 +1,10 @@
 ![I am GitHub Readme Generator's creator](https://media-exp2.licdn.com/dms/image/C4D16AQF1y2PbvZO8KQ/profile-displaybackgroundimage-shrink_200_800/0/1654690119379?e=1660780800&v=beta&t=EW6lfdeNNGGXib03wP-pgrsHIMQYwVc6lE2CntM6fF4)
 <h1 align="center">Hi 👋, I'm Abdul Ahad</h1>
 <h3 align="center">full stack web developer</h3>
+<div style="display:flex">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulahad-gh&show_icons=true&locale=en" alt="abdulahad-gh" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulahad-gh&show_icons=true&locale=en&layout=compact" alt="abdulahad-gh" /></p>
+</div>
 - 💬 Ask me about **web development**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,7 +16,7 @@
 <a href="https://stackoverflow.com/users/19070015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19070015" height="30" width="40" /></a>
 <a href="https://fb.com/abdulahad.messenger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdulahad.messenger" height="30" width="40" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulahad-gh&show_icons=true&locale=en&layout=compact" alt="abdulahad-gh" /></p>
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulahad-gh&" alt="abdulahad-gh" /></p>
