@@ -1,7 +1,8 @@
+<p align="left"> <a href="mailto:abdulahadmailacc@gmail.com"><img src="[https://github-profile-trophy.vercel.app/?username=abdulahad-gh](https://drive.google.com/file/d/1coiuUym3JvFwAZ02iCfVXp9w3Cw8GRMj/view?usp=sharing)" alt="abdulahad-gh" /></a> </p>
+
 <h1 align="center">Hi 👋, I'm Abdul Ahad</h1>
 <h3 align="center">full stack web developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulahad-gh" alt="abdulahad-gh" /></a> </p>
 
 - 💬 Ask me about **web development**
 
