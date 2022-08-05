@@ -4,9 +4,9 @@
 
 <div style='display:flex;justify-content:center'>
 <img src="https://github-readme-stats.vercel.app/api?username=abdulahad-gh&show_icons=true&locale=en" alt="abdulahad-gh" />
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulahad-gh&show_icons=true&locale=en&layout=compact" alt="abdulahad-gh" />
 </div>
-<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulahad-gh&show_icons=true&locale=en&layout=compact" alt="abdulahad-gh" /></p>
+<p ></p>
 - 💬 Ask me about **web development**
 </br>
 <h3 align="left">Languages and Tools:</h3>
