@@ -1,4 +1,3 @@
-![I am GitHub Readme Generator's creator](https://media-exp2.licdn.com/dms/image/C4D16AQF1y2PbvZO8KQ/profile-displaybackgroundimage-shrink_200_800/0/1654690119379?e=1660780800&v=beta&t=EW6lfdeNNGGXib03wP-pgrsHIMQYwVc6lE2CntM6fF4)
 <h1 align="center">Hi 👋, I'm Abdul Ahad</h1>
 <h3 align="center">full stack web developer</h3>
 
